@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **wu-jacob/wu-jacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Python and JavaScript
+- 👯 I’m looking to collaborate on web/desktop apps
+- 📫 Email: jacobwu6@gmail.com | Discord: saucyeti#9632
