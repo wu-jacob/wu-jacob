@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python, JavaScript and Dart
 - 👯 I’m looking to collaborate on web/desktop/mobile apps
-- 📫 Email: jacobwu6@gmail.com | Discord: saucyeti#9632
+- 📫 Email: jacobwu6@gmail.com
