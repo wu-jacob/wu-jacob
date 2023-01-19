@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++ and Dart
 - 👯 I’m looking to collaborate on web/desktop/mobile apps
 - 📫 Email: jacobwu6@gmail.com
+
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu-jacob)](https://github.com/anuraghazra/github-readme-stats)
