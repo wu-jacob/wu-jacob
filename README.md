@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web/desktop/mobile apps
 - 📫 Email: jacobwu6@gmail.com
 
-![Jacob's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wu-jacob&theme=transparent&show_icons=true)
+![Jacob's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wu-jacob&show_icons=true&theme=transparent)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jacobwu)]
