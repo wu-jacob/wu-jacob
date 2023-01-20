@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 📫 Email: jacobwu6@gmail.com
 
 ![Jacob's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wu-jacob&theme=transparent&show_icons=true)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jacobwu)]
