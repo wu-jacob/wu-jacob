@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Jacob's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wu-jacob&show_icons=true&theme=tokyonight&bg_color=00000000)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jacobwu&bg_color=00000000)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jacobwu&bg_color=00000000)]
