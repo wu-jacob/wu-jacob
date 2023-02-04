@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning C++ and Dart
+- 🌱 I’m currently learning C++ and JavaScript
 - 👯 I’m looking to collaborate on web/desktop/mobile apps
 - 📫 Email: jacobwu6@gmail.com
 
