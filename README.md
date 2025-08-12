@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning data structures and algorithms in c++
-- 👯 I’m looking to collaborate on web/desktop/mobile apps
+- 🌱 I’m currently learning operating systems development
 - 📫 Email: jacobwu6@gmail.com
 
 ![Jacob's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wu-jacob&show_icons=true&theme=tokyonight&bg_color=00000000)
